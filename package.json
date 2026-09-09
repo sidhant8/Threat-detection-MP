@@ -1,0 +1,13 @@
+{
+  "name": "threat-detection",
+  "version": "1.0.0",
+  "description": "Threat Detection Security Module — URL and File Scanners",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "Siddhant",
+  "license": "ISC",
+  "type": "module"
+}
